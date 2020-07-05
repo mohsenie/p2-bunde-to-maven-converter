@@ -1,2 +1,12 @@
+.project
+.settings
+.classpath
+.checkstyle
+
+*.iml
 .idea/
-.iml
+
+.DS_Store
+
+target
+
