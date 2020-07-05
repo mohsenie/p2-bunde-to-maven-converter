@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: swt
+Bundle-SymbolicName: swt
+Bundle-Version: 3.115.0.qualifier
+Require-Bundle: org.eclipse.swt
+Bundle-Vendor: Ignored
