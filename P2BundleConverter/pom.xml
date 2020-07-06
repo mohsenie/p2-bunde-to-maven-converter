@@ -78,7 +78,7 @@
 				<executions>
 					<execution>
 						<id>make-assembly</id>
-						<phase>package</phase>
+						<phase>initialize</phase>
 						<goals>
 							<goal>single</goal>
 						</goals>
